@@ -1,2 +1,3 @@
-def main():
-return 
+def sum():
+  sum=57+49
+  return  sum
